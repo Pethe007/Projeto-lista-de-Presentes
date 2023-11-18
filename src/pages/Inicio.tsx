@@ -1,4 +1,4 @@
-import Menu from "../components/menu";
+import Menu from "../components/Menu";
 import { BotaoCadastro, Fundo } from "../styles/Inicio";
 
 export default function Inicio() {
